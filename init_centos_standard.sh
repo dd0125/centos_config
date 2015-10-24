@@ -10,3 +10,6 @@ sudo yum -y install man
 sudo yum -y install make
 sudo yum -y install jwhois
 
+# ログインシェルを zshに切り替える
+chsh -s /bin/zsh
+
