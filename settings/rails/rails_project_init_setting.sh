@@ -1,0 +1,1 @@
+bundle config BUNDLE_PATH vendor/bundle
