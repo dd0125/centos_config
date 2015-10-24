@@ -10,4 +10,7 @@ sudo yum -y install man
 sudo yum -y install make
 sudo yum -y install jwhois
 
-
+# configファイル取得
+git clone --depth 1 https://github.com/dd0125/terminal_config.git ./
+rm -fr ./.git
+rm README.md
