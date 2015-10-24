@@ -1,0 +1,20 @@
+# cocos2dx
+#COCOS_CONSOLE_ROOT=/cygdrive/d/cocos2d-js-v3.0-beta/tools/cocos2d-console/bin
+#PATH=${PATH}:${COCOS_CONSOLE_ROOT}
+
+# python
+#PYTHON_PATH=
+#PATH=${PATH}:${PYTHON_PATH}
+
+# android
+#ANT_ROOT=/cygdrive/d/library/apache-ant-1.9.4/bin
+#NDK_ROOT=/cygdrive/d/android-ndk-r9d
+#ANDROID_SDK_ROOT=/cygdrive/d/adt-bundle-windows-x86_64/sdk
+#PATH=${PATH}:${ANT_ROOT}:${NDK_ROOT}:${ANDROID_SDK_ROOT}
+
+# VirtualBox
+#VBOX_INSTALL_PATH="/cygdrive/c/Program Files/Oracle/VirtualBox/"
+#PATH=${PATH}:${VBOX_INSTALL_PATH}
+
+# Vagrant
+#PATH=${PATH}:/cygdrive/d/HashiCorp/Vagrant/bin
